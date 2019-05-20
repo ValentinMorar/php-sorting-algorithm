@@ -8,3 +8,8 @@ When the character are the same, the value in the indexed array will be also in 
 When a value has no more character,  this value is placed in final sorted array.
 
 
+If you want to support this project, you can buy the book NAAS - numbers and a string, from here
+
+https://www.amazon.com/NAAS-Numbers-string-programming-Programming-ebook/dp/B07N6MD9GG/ref=sr_1_1?ie=UTF8&qid=1548968232&sr=8-1&keywords=naas+numbers+as+a+string
+
+In this book you can learn more about arrays in PHP, how to use numbers as strings and algorithms to sort and compare arrays.
